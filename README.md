@@ -1,6 +1,6 @@
 # cool-repo-A
 
-This repo is used as a fixture for our e2e tests.
+This repo is used as a fixture for our e2e tests. Well, not anymore.
 
 ## DO NOT:
 
